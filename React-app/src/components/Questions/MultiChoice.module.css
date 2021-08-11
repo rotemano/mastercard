@@ -1,0 +1,15 @@
+.multi-choice__label{
+    font-size: medium;
+    font-weight: bold;
+    margin: 5px;
+}
+
+.multi-choice__answer,.multi-choice__comment{
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.multi-choice{
+    margin: 10px 0;
+}

@@ -1,0 +1,13 @@
+.single-choice__label{
+    font-size: medium;
+    font-weight: bold;
+    margin: 5px;
+}
+
+.single-choice__answer{
+    margin-left: 20px;
+}
+
+.single-choice{
+    margin: 10px 0;
+}

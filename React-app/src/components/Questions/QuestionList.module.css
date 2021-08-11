@@ -1,0 +1,26 @@
+.question-list {
+    list-style: none;
+    padding: 0;
+  }
+  .question-list-form{
+        margin-top: 5rem;
+
+  }
+  
+  .question-list__fallback {
+    color: white;
+    text-align: center;
+  }
+  .question-list__error{
+    color:red;
+    font-weight: bold;
+    margin-top: 5rem;
+  }
+
+  .question-list-form-progress,.question-list__score{
+    margin:5px;
+
+  }
+  .question-list-form-progress span,.question-list__score span{
+    font-weight: bold;
+  }
